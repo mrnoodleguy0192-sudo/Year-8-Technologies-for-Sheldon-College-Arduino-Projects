@@ -33,6 +33,7 @@ adapter.
 
 4. This enables the arduino to compile the code in the code box, once you Copy+Paste my code and my setup in real life, you can then press the arrow to compile and automatically run the code.
 
+THE PROJECTS ARE DONE, Except the door one, but the requirment was met`
 
 Physical hardware, what to be advised on... READ THIS! THEY'RE TIPS!
 
